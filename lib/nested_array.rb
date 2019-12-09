@@ -60,6 +60,7 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
   
   matrix[row][column] = new_value
+  # this got me for a second forgot to return the matrix
   matrix
   
 end
