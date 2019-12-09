@@ -23,7 +23,8 @@ def assembled_matrix
   #------------------------------------------------------------
   
   # Failure/Error: expect(assembled_matrix).to eq([ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY])
-  
+  #     |x|
+  #     |x|
   [ ENNET_HOUSE, 
     ENFIELD_TENNIS_ACADEMY]
   # 3/4 Failures
