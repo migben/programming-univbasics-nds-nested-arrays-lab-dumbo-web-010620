@@ -40,6 +40,8 @@ def array_literal_matrix
   
   [ ENNET_HOUSE.sort, 
     ENFIELD_TENNIS_ACADEMY.sort]
+    
+    # 2 failures left to resolve for completion
 end
 
 def matrix_lookup(matrix, row, column)
