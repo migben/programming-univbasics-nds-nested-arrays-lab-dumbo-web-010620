@@ -23,6 +23,7 @@ def assembled_matrix
   # Failure/Error: expect(assembled_matrix).to eq([ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY])
   
   [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+  # 3/4 Failures
 end
 
 def array_literal_matrix
