@@ -38,6 +38,8 @@ def array_literal_matrix
   # side the ENNET_HOUSE and ENFIELD_TENNIS_ACADEMY Arrays but sorts
   # alphabetically by the first character.
   
+  #------------------------------------------------------------
+  
   # sort method will arrange numeric values in an ascending order.
   # It will also sort strings in alphabetical order.
   
